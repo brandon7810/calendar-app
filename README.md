@@ -1,0 +1,1 @@
+A calendar app that lets user add events to different date. User can browse events month view.
